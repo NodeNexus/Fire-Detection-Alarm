@@ -101,6 +101,4 @@ The `SMOKE_THRESHOLD` value in the code **must** be calibrated for your specific
     * The Buzzer will turn ON.
 
 ---
-  
-  display.display();
-}
+Developer-Vaishnav Balpande
